@@ -2,7 +2,7 @@
 
 ### Issue tracker
 
-Issues and specs live as local markdown files under `.scratch/<feature>/`. See `docs/agents/issue-tracker.md`.
+Issues and specs live in GitHub Issues (`2024dripdrop-ux/my-project-1`), managed via `gh api` REST calls. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
